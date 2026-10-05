@@ -83,17 +83,20 @@ MineGuard X is designed to go beyond simply creating a map.
 
 Important information can be associated with specific locations:
 
-<div align="centre" style="display: flex; justify-content: centre; align-items: centre; gap: 10px">
-  <p style="padding: 10px 20px; border-radius: 10px; border: 1px solid white">🟢 Safe Areas</p>
-  <p style="padding: 10px 20px; border-radius: 10px; border: 1px solid white">🟡 Caution Zones</p>
-  <p style="padding: 10px 20px; border-radius: 10px; border: 1px solid white">🔴 Hazard Zones</p>
-  <p style="padding: 10px 20px; border-radius: 10px; border: 1px solid white">☣️ Gas Detection</p>
-  <p style="padding: 10px 20px; border-radius: 10px; border: 1px solid white">🪨 Collapse Locations</p>
-  <p style="padding: 10px 20px; border-radius: 10px; border: 1px solid white">👷 Worker Locations</p>
-  <p style="padding: 10px 20px; border-radius: 10px; border: 1px solid white">🤖 Rover Position</p>
-  <p style="padding: 10px 20px; border-radius: 10px; border: 1px solid white">🧭 Accessible Routes</p>
-</div>
-**🟢 Safe Areas · 🟡 Caution Zones · 🔴 Hazard Zones · ☣️ Gas Detection · 🪨 Collapse Locations · 👷 Worker Locations · 🤖 Rover Position · 🧭 Accessible Routes**
+<table align="center">
+  <tr>
+    <td>🟢 <b>Safe Areas</b></td>
+    <td>🟡 <b>Caution Zones</b></td>
+    <td>🔴 <b>Hazard Zones</b></td>
+    <td>☣️ <b>Gas Detection</b></td>
+  </tr>
+  <tr>
+    <td>🪨 <b>Collapse Locations</b></td>
+    <td>👷 <b>Worker Locations</b></td>
+    <td>🤖 <b>Rover Position</b></td>
+    <td>🧭 <b>Accessible Routes</b></td>
+  </tr>
+</table>
 
 This transforms the mine map into a **real-time situational-awareness system** for rescue teams.
 
