@@ -1,19 +1,17 @@
 # ⛏️ MineGuard X
 
+### AI-Powered Autonomous Mine Exploration, Hazard Detection & Rescue Rover
+
 <p align="center">
-  <iframe
-    width="100%"
-    height="500"
-    src="https://www.youtube.com/embed/YOUR_VIDEO_ID"
-    title="MineGuard X - Autonomous Mine Rescue Rover"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
+    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg"
+         width="100%"
+         alt="MineGuard X Demo Video">
+  </a>
 </p>
 
 <p align="center">
-  <b>AI-Powered Autonomous Mine Exploration, Hazard Detection & Rescue Rover</b>
+  ▶️ <b>Click the video above to watch the MineGuard X demonstration</b>
 </p>
 
 > **Explore. Detect. Map. Rescue.**
@@ -70,13 +68,13 @@ Its suspension helps maintain wheel contact over uneven terrain, while the speci
 ### Rover Design
 
 <p align="center">
-  <img src="images/rover-design-1.jpg" width="45%" />
-  <img src="images/rover-design-2.jpg" width="45%" />
+  <img src="images/rover-design-1.jpg" width="45%">
+  <img src="images/rover-design-2.jpg" width="45%">
 </p>
 
 <p align="center">
-  <img src="images/rover-design-3.jpg" width="45%" />
-  <img src="images/rover-design-4.jpg" width="45%" />
+  <img src="images/rover-design-3.jpg" width="45%">
+  <img src="images/rover-design-4.jpg" width="45%">
 </p>
 
 ---
@@ -113,7 +111,7 @@ During a mine collapse, the rover can:
 6. Send information to the control center.
 7. Assist rescuers in planning their approach.
 
-> **The goal is simple: Give rescuers information before they enter a dangerous environment.**
+> **Give rescuers information before they enter a dangerous environment.**
 
 ---
 
@@ -150,13 +148,13 @@ Our mine visit helped us understand:
 ### 📸 Mine Visit Gallery
 
 <p align="center">
-  <img src="images/mine-visit-1.jpg" width="45%" />
-  <img src="images/mine-visit-2.jpg" width="45%" />
+  <img src="images/mine-visit-1.jpg" width="45%">
+  <img src="images/mine-visit-2.jpg" width="45%">
 </p>
 
 <p align="center">
-  <img src="images/mine-visit-3.jpg" width="45%" />
-  <img src="images/mine-visit-4.jpg" width="45%" />
+  <img src="images/mine-visit-3.jpg" width="45%">
+  <img src="images/mine-visit-4.jpg" width="45%">
 </p>
 
 ---
@@ -170,8 +168,6 @@ MineGuard X aims to reduce the risks faced by mine workers and rescue teams by u
 ---
 
 ## 🚀 Future Scope
-
-Future versions of MineGuard X can include:
 
 - Advanced autonomous navigation
 - Real-time 3D mine mapping
