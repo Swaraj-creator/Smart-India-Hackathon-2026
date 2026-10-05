@@ -1,125 +1,192 @@
-# Smart-India-Hackathon-2026
+# Smart India Hackathon 2026 - MineGuard X
 
-# ⛏️ MineGuard X
+### AI-Powered Autonomous Mine Exploration, Hazard Detection & Rescue Rover
 
-### Autonomous AI-Powered Mine Exploration, Hazard Detection & Rescue Rover
+> **Explore. Detect. Map. Rescue.**
 
-> **Explore dangerous mines. Detect hidden hazards. Locate trapped workers. Guide rescue operations. Save lives.**
+MineGuard X is an intelligent autonomous rover designed to operate inside hazardous mining environments where sending humans first can be dangerous.
 
-MineGuard X is an intelligent autonomous mine-rescue rover designed to operate in hazardous, unstable, and inaccessible mining environments where sending human personnel can be extremely dangerous.
-
-The system combines **autonomous mobility, multi-sensor perception, AI-based hazard detection, mine mapping, worker localization, environmental monitoring, and remote control** into a single integrated platform.
+The rover combines **all-terrain mobility, environmental sensing, AI-based perception, mine mapping, worker detection, hazard identification, and remote monitoring** to provide rescue teams with real-time information about dangerous underground environments.
 
 ---
 
 ## 🚨 The Problem
 
-Underground mines can become extremely dangerous due to:
+Mining environments can become extremely dangerous due to:
 
-- ⛰️ Mine collapses
-- ☠️ Toxic or combustible gas accumulation
-- 🔥 Fire and thermal hazards
-- 🌫️ Poor visibility
-- 🪨 Unstable terrain
-- 🌊 Muddy or flooded areas
-- 📡 Communication loss
-- 👷 Workers becoming trapped or disoriented
+- Mine collapses
+- Toxic and combustible gases
+- Unstable terrain
+- Fire and thermal hazards
+- Poor visibility
+- Trapped or missing workers
+- Difficult communication conditions
 
-After a mining accident, rescue teams often have limited information about the internal condition of the mine.
+During an emergency, rescue teams often have limited information about what is happening inside the mine.
 
-Sending rescuers directly into an unstable area can expose them to additional risks.
-
-> **MineGuard X is designed to go where humans shouldn't go first.**
+**MineGuard X is designed to enter these environments first, gather critical information, and help rescuers make safer decisions.**
 
 ---
 
-# 🛡️ What is MineGuard X?
+## 🤖 How MineGuard X Works
 
-MineGuard X is a **multi-terrain autonomous rover** capable of navigating challenging mining environments while continuously collecting environmental and spatial information.
+MineGuard X continuously collects information from its onboard sensors while navigating through the mine.
 
-### It can:
+**Sensors → Data Collection → AI / Sensor Processing → Hazard & Worker Detection → Mine Mapping → Risk Assessment → Control Center → Rescue Decision Support**
 
-- 🗺️ **Map the Mine** — Build and update a digital representation of explored areas.
-- ☣️ **Detect Environmental Hazards** — Monitor gases and environmental conditions.
-- 🪨 **Detect Mine Collapses** — Identify and mark collapsed sections.
-- 👷 **Locate Workers** — Detect and track workers inside the mine.
-- 🆘 **Assist Rescue Operations** — Help locate workers in dangerous or collapsed areas.
-- 🧭 **Guide Workers & Rescuers** — Identify safer routes.
-- 🛞 **Navigate Difficult Terrain** — Traverse rocky, muddy, uneven and debris-filled environments.
+The system can detect environmental hazards, identify workers, analyze surrounding terrain, and mark important locations on the digital mine map.
 
 ---
 
-# ✨ Key Features
+## 🛞 Designed for Difficult Terrain
 
-| Feature | Description |
-|---|---|
-| 🤖 Autonomous Navigation | Navigates mine environments with minimal human intervention |
-| 🗺️ Mine Mapping | Creates a digital map of explored areas |
-| ☣️ Gas Detection | Detects potentially hazardous gases |
-| 🌡️ Environmental Monitoring | Monitors environmental conditions |
-| 🪨 Collapse Detection | Detects and marks mine-collapse locations |
-| 👷 Worker Detection | Detects and tracks workers |
-| 🆘 Rescue Assistance | Helps locate workers during emergencies |
-| 🧭 Safe Route Guidance | Helps identify safer paths |
-| 📡 Network Communication | Communicates with control systems and network nodes |
-| 🛞 All-Terrain Mobility | Designed for rocky, muddy and unstable terrain |
-| 🧹 Self-Cleaning Wheels | Helps reduce mud and debris accumulation |
-| 🎥 Real-Time Monitoring | Provides live rover and environmental information |
-| 🚨 Emergency Alerts | Generates alerts for critical hazards |
+MineGuard X uses a specialized **wheel, suspension, and chassis design** to travel through challenging mining environments.
+
+The rover is designed to handle:
+
+- 🪨 Rocky surfaces
+- 🟤 Mud
+- 🧱 Loose debris
+- ⛰️ Uneven and inclined terrain
+- 🕳️ Collapsed areas
+- 🚧 Narrow passages
+
+Its suspension helps maintain wheel contact over uneven terrain, while the specialized wheel design provides improved traction and helps reduce mud and debris accumulation.
+
+### Rover Design
+
+<!-- Add your rover design images here -->
+
+<p align="center">
+  <img src="images/rover-design-1.jpg" width="45%" />
+  <img src="images/rover-design-2.jpg" width="45%" />
+</p>
+
+<p align="center">
+  <img src="images/rover-design-3.jpg" width="45%" />
+  <img src="images/rover-design-4.jpg" width="45%" />
+</p>
 
 ---
 
-# 🧠 System Architecture
+## ☣️ Hazard Detection & Mine Mapping
 
-```text
-                         ┌─────────────────────────┐
-                         │      MINEGUARD X        │
-                         │     AUTONOMOUS ROVER    │
-                         └────────────┬────────────┘
-                                      │
-                ┌─────────────────────┼─────────────────────┐
-                │                     │                     │
-                ▼                     ▼                     ▼
-        ┌───────────────┐     ┌──────────────┐     ┌───────────────┐
-        │    SENSOR     │     │   MOBILITY   │     │ COMMUNICATION │
-        │    SYSTEM     │     │    SYSTEM    │     │    SYSTEM     │
-        └───────┬───────┘     └──────────────┘     └───────┬───────┘
-                │                                           │
-                ▼                                           ▼
-        ┌───────────────┐                           ┌───────────────┐
-        │ DATA          │                           │ NETWORK       │
-        │ ACQUISITION   │                           │ GRID          │
-        └───────┬───────┘                           └───────┬───────┘
-                │                                           │
-                └─────────────────────┬─────────────────────┘
-                                      ▼
-                         ┌─────────────────────────┐
-                         │     AI / PERCEPTION     │
-                         │        PIPELINE         │
-                         └────────────┬────────────┘
-                                      │
-               ┌──────────────────────┼──────────────────────┐
-               │                      │                      │
-               ▼                      ▼                      ▼
-       ┌───────────────┐      ┌───────────────┐      ┌───────────────┐
-       │ HAZARD        │      │ WORKER        │      │ COLLAPSE      │
-       │ DETECTION     │      │ DETECTION     │      │ DETECTION     │
-       └───────┬───────┘      └───────┬───────┘      └───────┬───────┘
-               │                      │                      │
-               └──────────────────────┼──────────────────────┘
-                                      ▼
-                         ┌─────────────────────────┐
-                         │      MINE DIGITAL       │
-                         │          MAP            │
-                         └────────────┬────────────┘
-                                      │
-                                      ▼
-                         ┌─────────────────────────┐
-                         │      CONTROL CENTER     │
-                         └────────────┬────────────┘
-                                      │
-                                      ▼
-                         ┌─────────────────────────┐
-                         │ ALERTS • ROUTES •       │
-                         │ RESCUE INFORMATION      │
-                         └─────────────────────────┘
+MineGuard X monitors its surroundings for potentially dangerous conditions.
+
+The rover can detect and report:
+
+- ☠️ Hazardous gases
+- 🌡️ Environmental abnormalities
+- 🪨 Mine collapses
+- 🚧 Blocked passages
+- ⚠️ Unsafe areas
+
+Detected hazards can be marked on the mine map, allowing the control center to understand where dangerous regions are located.
+
+The generated mine map can provide information about **safe areas, hazardous zones, collapse locations, worker positions, rover position, and accessible routes**.
+
+---
+
+## 👷 Worker Detection & Rescue Assistance
+
+MineGuard X can work alongside connected worker safety systems to help locate workers inside the mine.
+
+During a mine collapse, the rover can:
+
+1. Enter and inspect the affected area.
+2. Detect possible workers or survivors.
+3. Identify surrounding hazards.
+4. Mark their location on the mine map.
+5. Identify accessible routes.
+6. Send information to the control center.
+7. Assist rescuers in planning their approach.
+
+> **The goal is simple: Give rescuers information before they enter a dangerous environment.**
+
+---
+
+## 📡 Control Center
+
+The rover communicates with a remote control system where operators can monitor:
+
+- 🗺️ Mine map
+- 🤖 Rover location
+- 👷 Worker locations
+- ☣️ Detected hazards
+- 🪨 Collapse locations
+- 📊 Sensor data
+- 🚨 Emergency alerts
+- 🧭 Possible safe routes
+
+This creates a unified view of the mine and helps rescue teams respond more effectively.
+
+---
+
+## 🏭 Mine Visit & Field Study
+
+The MineGuard X concept is inspired by real mining environments and the challenges faced by workers and rescue teams.
+
+Our mine visit helped us understand:
+
+- Real mine terrain and accessibility
+- Working conditions
+- Safety challenges
+- Underground infrastructure
+- Communication limitations
+- Potential applications for autonomous systems
+
+### 📸 Mine Visit Gallery
+
+<!-- Add your mine visit photographs here -->
+
+<p align="center">
+  <img src="images/mine-visit-1.jpg" width="45%" />
+  <img src="images/mine-visit-2.jpg" width="45%" />
+</p>
+
+<p align="center">
+  <img src="images/mine-visit-3.jpg" width="45%" />
+  <img src="images/mine-visit-4.jpg" width="45%" />
+</p>
+
+---
+
+## 🎯 Our Goal
+
+MineGuard X aims to reduce the risks faced by mine workers and rescue teams by using robotics and intelligent sensing to explore hazardous areas before humans enter them.
+
+### **Explore → Detect → Map → Locate → Assist → Rescue**
+
+---
+
+## 🚀 Future Scope
+
+Future versions of MineGuard X can include:
+
+- Advanced autonomous navigation
+- Real-time 3D mine mapping
+- Improved AI-based hazard detection
+- Multi-rover coordination
+- Long-range underground communication
+- Advanced worker tracking
+- Autonomous return-to-base
+- Robotic debris interaction
+- Cloud-based mine monitoring
+
+---
+
+## 🌍 Vision
+
+> ### **"The first machine entering a dangerous mine shouldn't have to be a human."**
+
+MineGuard X brings together **robotics, AI, electronics, sensing, mobility, and communication** to create a safer and more intelligent approach to mine exploration and rescue.
+
+---
+
+<div align="center">
+
+### ⛏️ MineGuard X
+
+**Explore. Detect. Map. Rescue.**
+
+</div>
