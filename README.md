@@ -68,16 +68,16 @@ Its suspension helps maintain wheel contact over uneven terrain, while the speci
 ### Rover Design
 
 <p align="center">
-  <img src="Rover Design/file_00000000041c820b976154a6d02c7934.png" width="95%">
+  <img src="Rover Design/file_00000000041c820b976154a6d02c7934.png" width="100%">
 </p>
 <p align="center">
-  <img src="Rover Design/file_000000005e2c820b92c5a300502c2838.png" width="45%">
-  <img src="Rover Design/file_00000000a6f8820bb3b1ddf23c8e4819.png" width="45%">
+  <img src="Rover Design/file_000000005e2c820b92c5a300502c2838.png" width="50%">
+  <img src="Rover Design/file_00000000a6f8820bb3b1ddf23c8e4819.png" width="50%">
 </p>
 
 <p align="center">
-  <img src="Rover Design/file_00000000b878820b9b2c5cffc6bf39d2.png" width="45%">
-  <img src="Rover Design/file_000000008a50820ba37958d205dbabf7.png" width="45%">
+  <img src="Rover Design/file_00000000b878820b9b2c5cffc6bf39d2.png" width="50%">
+  <img src="Rover Design/file_000000008a50820ba37958d205dbabf7.png" width="50%">
 </p>
 
 ---
@@ -151,13 +151,9 @@ Our mine visit helped us understand:
 ### 📸 Mine Visit Gallery
 
 <p align="center">
-  <img src="images/mine-visit-1.jpg" width="45%">
-  <img src="images/mine-visit-2.jpg" width="45%">
-</p>
-
-<p align="center">
-  <img src="images/mine-visit-3.jpg" width="45%">
-  <img src="images/mine-visit-4.jpg" width="45%">
+  <img src="Mine Visit/WhatsApp Image 2026-10-05 at 23.42.56.jpeg" width="33%">
+  <img src="Mine Visit/WhatsApp Image 2026-10-05 at 23.42.57.jpeg" width="33%">
+  <img src="Mine Visit/WhatsApp Image 2026-10-05 at 23.42.58.jpeg" width="33%">
 </p>
 
 ---
