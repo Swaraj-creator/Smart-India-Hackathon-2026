@@ -1,6 +1,20 @@
-# Smart India Hackathon 2026 - MineGuard X
+# ⛏️ MineGuard X
 
-### AI-Powered Autonomous Mine Exploration, Hazard Detection & Rescue Rover
+<p align="center">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/YOUR_VIDEO_ID"
+    title="MineGuard X - Autonomous Mine Rescue Rover"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</p>
+
+<p align="center">
+  <b>AI-Powered Autonomous Mine Exploration, Hazard Detection & Rescue Rover</b>
+</p>
 
 > **Explore. Detect. Map. Rescue.**
 
@@ -54,8 +68,6 @@ The rover is designed to handle:
 Its suspension helps maintain wheel contact over uneven terrain, while the specialized wheel design provides improved traction and helps reduce mud and debris accumulation.
 
 ### Rover Design
-
-<!-- Add your rover design images here -->
 
 <p align="center">
   <img src="images/rover-design-1.jpg" width="45%" />
@@ -136,8 +148,6 @@ Our mine visit helped us understand:
 - Potential applications for autonomous systems
 
 ### 📸 Mine Visit Gallery
-
-<!-- Add your mine visit photographs here -->
 
 <p align="center">
   <img src="images/mine-visit-1.jpg" width="45%" />
