@@ -83,6 +83,16 @@ MineGuard X is designed to go beyond simply creating a map.
 
 Important information can be associated with specific locations:
 
+<div align="centre" style="display: flex; justify-content: centre; align-items: centre; gap: 10px">
+  <p style="padding: 10px 20px; border-radius: 10px; border: 1px solid white">🟢 Safe Areas</p>
+  <p style="padding: 10px 20px; border-radius: 10px; border: 1px solid white">🟡 Caution Zones</p>
+  <p style="padding: 10px 20px; border-radius: 10px; border: 1px solid white">🔴 Hazard Zones</p>
+  <p style="padding: 10px 20px; border-radius: 10px; border: 1px solid white">☣️ Gas Detection</p>
+  <p style="padding: 10px 20px; border-radius: 10px; border: 1px solid white">🪨 Collapse Locations</p>
+  <p style="padding: 10px 20px; border-radius: 10px; border: 1px solid white">👷 Worker Locations</p>
+  <p style="padding: 10px 20px; border-radius: 10px; border: 1px solid white">🤖 Rover Position</p>
+  <p style="padding: 10px 20px; border-radius: 10px; border: 1px solid white">🧭 Accessible Routes</p>
+</div>
 **🟢 Safe Areas · 🟡 Caution Zones · 🔴 Hazard Zones · ☣️ Gas Detection · 🪨 Collapse Locations · 👷 Worker Locations · 🤖 Rover Position · 🧭 Accessible Routes**
 
 This transforms the mine map into a **real-time situational-awareness system** for rescue teams.
