@@ -1,4 +1,4 @@
-# ⛏️ MineGuard X
+# Smart India Hackathon 2026 - MineGuard X
 
 ### AI-Powered Autonomous Mine Exploration, Hazard Detection & Rescue Rover
 
