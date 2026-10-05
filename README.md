@@ -71,13 +71,13 @@ Its suspension helps maintain wheel contact over uneven terrain, while the speci
   <img src="Rover Design/file_00000000041c820b976154a6d02c7934.png" width="100%">
 </p>
 <p align="center">
-  <img src="Rover Design/file_000000005e2c820b92c5a300502c2838.png" width="50%">
-  <img src="Rover Design/file_00000000a6f8820bb3b1ddf23c8e4819.png" width="50%">
+  <img src="Rover Design/file_000000005e2c820b92c5a300502c2838.png" width="49%">
+  <img src="Rover Design/file_00000000a6f8820bb3b1ddf23c8e4819.png" width="49%">
 </p>
 
 <p align="center">
-  <img src="Rover Design/file_00000000b878820b9b2c5cffc6bf39d2.png" width="50%">
-  <img src="Rover Design/file_000000008a50820ba37958d205dbabf7.png" width="50%">
+  <img src="Rover Design/file_00000000b878820b9b2c5cffc6bf39d2.png" width="49%">
+  <img src="Rover Design/file_000000008a50820ba37958d205dbabf7.png" width="49%">
 </p>
 
 ---
