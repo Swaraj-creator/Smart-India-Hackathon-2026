@@ -3,8 +3,8 @@
 ### AI-Powered Autonomous Mine Exploration, Hazard Detection & Rescue Rover
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg"
+  <a href="https://drive.google.com/file/d/1tDv8063p3Ha2ptUp9aJvGJxS_csMkYJt/view?usp=sharing">
+    <img src="Thumbnail.png"
          width="100%"
          alt="MineGuard X Demo Video">
   </a>
